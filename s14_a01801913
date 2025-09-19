@@ -1,0 +1,6 @@
+año = input("en que año naciste?")
+año = int(año)
+
+edad = 2025 - año
+
+print("tu edad es:", edad)
